@@ -25,8 +25,8 @@
     }
 
     .main_content_analfabetismo_link_img{
-        width: 400px;
-        height: 250px;
+         width: 60vw;
+        height: 37.5vh;
         margin-top: 80px;
         border-radius: 20px;
     }
@@ -39,7 +39,7 @@
     }
     .main_content_analfabetismo{
         margin:50px;
-    
+        margin-top: 70px;
     }
     .literaturaParaTodos_link{
         display: flex;
