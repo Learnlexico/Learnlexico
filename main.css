@@ -26,7 +26,7 @@
 
     .main_content_analfabetismo_link_img{
          width: 60vw;
-        height: 37.5vh;
+        height: 30vh;
         margin-top: 80px;
         border-radius: 20px;
     }
@@ -108,7 +108,7 @@
        
     }
     .TEA_img{
-        height: 35vh;
+        height: 30vh;
         width: 60vw;
     }
     .main_content_analfabetismo_texto{
@@ -211,7 +211,7 @@ h1{
 }
 .main_content_dislexia_link_img{
     width: 40vw;
-    height: 40vh;
+    height: 25vh;
     border-radius: 20px;
     margin: 20px;
 }
